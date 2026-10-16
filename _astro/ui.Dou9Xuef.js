@@ -1,0 +1,1 @@
+import{g as e}from"./runtime-core.esm-bundler.DnE0QwPB.js";var t=e({menuOpen:!1});export{t};
